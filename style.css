@@ -1,0 +1,44 @@
+body {
+    background-color: #222831;
+}
+
+.logo {
+    margin: auto;
+    display: block;
+}
+
+.line {
+    width: 60%;
+}
+
+.About {
+    background-color: #23282e;
+    font-family: Montserrat;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    border-radius: 10px;
+    color: white;
+}
+.FAQ {
+    background-color: #1d2025;
+    font-family: Montserrat;
+    height: 250px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.Serverip {
+    background-color: #23282e;
+    font-family: Montserrat;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    border-radius: 10px;
+    color: white;
+}
